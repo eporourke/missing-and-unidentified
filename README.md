@@ -1,7 +1,7 @@
 # Missing and unclaimed remains database 
 
 ### About
-There's a growing awareness that information on missing people and unclaimed remains are fragmented across systems, preventing opportunities for identification and offering a measure of closure for loved ones. NamUS was created in an effort to mitigate this, but it's not mandatory for state and county governments to report to it.
+There's a growing awareness that information on missing people and unclaimed remains are fragmented across systems, preventing opportunities for identification and a measure of closure for loved ones. NamUS was created in an effort to mitigate this, but it's not mandatory for state and county governments to report to it.
 
 I'm certainly not the first or the last person to have a fascination with the mysteries behind why someone has gone missing. This is pretty evident in the explosion of popularity in true crime content.
 
@@ -36,4 +36,4 @@ First thoughts are that each article of clothing needs to have a column. Color i
 
 Color is still an important detail and could possibly be added as an associated text box.
 
-Problem: There's a growing awareness 
+Problem: Many state and local jurisdictions don't enter information into NamUS. Information is fragmented and difficult to find.
