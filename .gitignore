@@ -1,0 +1,16 @@
+# system
+
+.venv/
+__pycache__/
+*.pyc
+.vscode/
+.DS_Store
+
+# project
+
+notes.md
+
+data/other/
+data/raw/
+data/data_sources.md
+data/data_load.py

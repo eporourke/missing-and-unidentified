@@ -33,7 +33,7 @@ Problem: Clothing is often grouped in one text box, when each article of clothin
 Additionally, there's the question of how to structure the data. What is the best way to do so without a) losing information, and b) overcomplicating the data.
 
 First thoughts are that each article of clothing needs to have a column. Color is an unreliable metric, so it should be a boolean. OR, 3 values, another for "unknown" if there is no clothing or it's degraded beyond recognition.
-
+(rethinking boolean)
 Color is still an important detail and could possibly be added as an associated text box.
 
 Problem: Many state and local jurisdictions don't enter information into NamUS. Information is fragmented and difficult to find.
@@ -42,6 +42,25 @@ Problem: How to deal with duplicates when records are in both NamUS and another 
 
 Problem: License - is it okay to republish the data?
 
+
+## Data cleaning
+
+When selecting for certain characteristics, such as tattoo, scar, etc. if there are notes saying these things are not present in shows up in the search results. It's still data, and I think it should be preserved regardless. This reinforces my thoughts that perhaps the base value for each should be Y/N - and in the text box, preserve those notes that say nothing was found. That way these results don't come up when people select for tattoos, but the information is still there.
+
 ### Hyotheses
 
 - If a jurisdiction has the resources to publish information online, they're also reporting to NamUS
+
+### In the Weeds - Data Management
+
+In my strongly held opinion, consistency and futureproofing are the foundation of any data project. Before jumping in, I test my system(s)* with a small amount of data, make necessary changes, and continue this process until I feel like I've covered my bases. If I'm not sure about implementing something I find out if I can put in place later.
+
+File naming conventions:
+Date downloaded_organization_status_demographics
+
+- Date of download to know where to begin when pulling new records
+- organization the data came from
+- status of the victim - missing, unidentified, murdered
+- The content of the file if I couldn't pull the whole database - for instance if it's just female, white males, clothing details, etc.
+
+*I am picky about my tools/systems. I usually know what I want, and I'll go through and test all kinds of platforms until I find the closest option. But usually it's a trade off, and I need to decide what feature I want more than another.
