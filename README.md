@@ -5,7 +5,7 @@ There's a growing awareness that information on missing people and unclaimed rem
 
 I'm certainly not the first or the last person to have a fascination with the mysteries behind why someone has gone missing. This is pretty evident in the explosion of popularity in true crime content.
 
-In addition, economic migration is a subject I return to again and again. For a lot of people, economic policy can be an abstraction. I've always searched out stories about the people for whom it's not. A big example being NAFTA and its impact - whether it's factory workers in the US who have lost jobs due to closures, or people in Central America who make the journey here for jobs.
+In addition, economic migration is a subject I return to again and again. For a lot of people, economic policy can be an abstraction. I've always searched out stories about the people for whom it's not. A big example being NAFTA and its impact - whether it's factory workers in the US who have lost jobs due to closures, or people in Central America who make the journey here for jobs. (source - https://bja.ojp.gov/program/muhr/overview)
 
 I can't imagine how difficult it must be to live day after day, never knowing what's happened to someone you love. Particularly if they're making a journey fraught with danger and uncertainty. 
 
@@ -37,3 +37,11 @@ First thoughts are that each article of clothing needs to have a column. Color i
 Color is still an important detail and could possibly be added as an associated text box.
 
 Problem: Many state and local jurisdictions don't enter information into NamUS. Information is fragmented and difficult to find.
+
+Problem: How to deal with duplicates when records are in both NamUS and another database/dataset.
+
+Problem: License - is it okay to republish the data?
+
+### Hyotheses
+
+- If a jurisdiction has the resources to publish information online, they're also reporting to NamUS
