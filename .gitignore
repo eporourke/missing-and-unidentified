@@ -5,12 +5,14 @@ __pycache__/
 *.pyc
 .vscode/
 .DS_Store
+.env
 
 # project
 
 notes.md
 
 data/other/
+data/processed/
 data/raw/
 data/data_sources.md
 data/data_load.py

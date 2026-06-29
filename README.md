@@ -47,6 +47,7 @@ Problem: License - is it okay to republish the data?
 
 When selecting for certain characteristics, such as tattoo, scar, etc. if there are notes saying these things are not present in shows up in the search results. It's still data, and I think it should be preserved regardless. This reinforces my thoughts that perhaps the base value for each should be Y/N - and in the text box, preserve those notes that say nothing was found. That way these results don't come up when people select for tattoos, but the information is still there.
 
+Note: Total loaded records exceed current website count by 4. No duplicate case numbers were found. Discrepancy may reflect timing differences between state-level exports and website totals.
 ### Hyotheses
 
 - If a jurisdiction has the resources to publish information online, they're also reporting to NamUS
