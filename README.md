@@ -49,6 +49,14 @@ Problem: License - is it okay to republish the data?
 
 Problem: RNPDNO to integrate a source from Mexico with an intent to focus on border related disappearances. Will require a lot of thinking about how to sift through this data, as it's 135,000 records.
 
+Need to better read through the info -
+
+What is Fecha de Hechos ie, date of event? Have looked around for a better explanation but haven't found one. Is it the day the person was last seen or the day it was entered into the system? There are dates from only 3 days ago, which seems strange and very fast to enter a missing person into a database. Is the data consistently fluctuating because it's the date of "disappearance" and they are found shortly after? This would mean having to select a certain "cut off" date - only pulling data before a certain time span.
+
+Who enters this information? Is it law enforcement bodies or loved ones?
+
+Possible strategies to narrow the data to those crossing the border - limit geographic area to rural communities.
+
 ## Data cleaning
 
 When selecting for certain characteristics, such as tattoo, scar, etc. if there are notes saying these things are not present in shows up in the search results. It's still data, and I think it should be preserved regardless. This reinforces my thoughts that perhaps the base value for each should be Y/N - and in the text box, preserve those notes that say nothing was found. That way these results don't come up when people select for tattoos, but the information is still there.
