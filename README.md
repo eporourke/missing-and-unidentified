@@ -17,13 +17,14 @@ So many people have been doing all kinds of things to solve these cases and try 
 
 ### Tools
 
-PostgreSQL
+PostgreSQL | DBeaver<br>
+Python | VSCode<br>
 
 ### Sources and details
 
 NamUS<br>
 Individual Coroner Websites and State Clearinghouses (To be listed)<br>
-DataMX.io<br>
+DataMX.io/RNPDNO<br>
 Murder Accountability Project
 
 ### Problems and solutions
@@ -46,6 +47,7 @@ Problem: How to deal with duplicates when records are in both NamUS and another 
 
 Problem: License - is it okay to republish the data?
 
+Problem: RNPDNO to integrate a source from Mexico with an intent to focus on border related disappearances. Will require a lot of thinking about how to sift through this data, as it's 135,000 records.
 
 ## Data cleaning
 
