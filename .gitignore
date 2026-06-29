@@ -14,5 +14,6 @@ notes.md
 data/other/
 data/processed/
 data/raw/
+data/scraped/
 data/data_sources.md
 data/data_load.py
