@@ -23,8 +23,8 @@ PostgreSQL
 
 NamUS<br>
 Individual Coroner Websites and State Clearinghouses (To be listed)<br>
-DataMX.io
-
+DataMX.io<br>
+Murder Accountability Project
 
 ### Problems and solutions
 
@@ -69,3 +69,7 @@ Date downloaded_organization_status_demographics
 - The content of the file if I couldn't pull the whole database - for instance if it's just female, white males, clothing details, etc.
 
 *I am picky about my tools/systems. I usually know what I want, and I'll go through and test all kinds of platforms until I find the closest option. But usually it's a trade off, and I need to decide what feature I want more than another.
+
+### Additional branches/forks/repos/directions/etc.
+
+The Murder Accountability Project provides data on uncleared homicides. Interested in layering this data over the NamUS data to explore possible demographic connections.
