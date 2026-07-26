@@ -5,13 +5,11 @@
 ### About
 There's a growing awareness that information on missing people and unclaimed remains are fragmented across systems, preventing opportunities for identification and a measure of closure for loved ones. NamUS was created in an effort to mitigate this, but it's not mandatory for state and county governments to report to it.
 
-I'm certainly not the first, nor the last person to have a fascination with the mysteries behind why someone has gone missing. This is pretty evident in the explosion of popularity in true crime content.
-
-In addition, economic migration is a subject I return to again and again. For a lot of people, economic policy can be an abstraction. I've always searched out stories about the people for whom it's not. A big example being NAFTA and its impact - whether it's factory workers in the US who have lost jobs due to closures, or people in Central America who make the journey here for jobs. (source - https://bja.ojp.gov/program/muhr/overview)
+I'm certainly not the first, nor the last person to uncover the reasons behind why someone has gone missing. To add to this, economic migration is a subject I return to again and again. For a lot of people, economic policy can be an abstraction. I've always searched out stories about the people for whom it's not. A big example being NAFTA and its impact - whether it's factory workers in the US who have lost jobs due to closures, or people in Central America who make the journey here so they can send money back to their families. (source - https://bja.ojp.gov/program/muhr/overview)
 
 I can't imagine how difficult it must be to live day after day, never knowing what's happened to someone you love. Particularly if they're making a journey fraught with danger and uncertainty. 
 
-So many people have been doing all kinds of things to solve these cases and try to get answers. This certainly isn't anything groundbreaking, but it is my contribution.
+Many have been doing their part to solve cases and try to get answers. This certainly isn't anything groundbreaking, but it is my contribution.
 
 ## Design and Implementation
 
